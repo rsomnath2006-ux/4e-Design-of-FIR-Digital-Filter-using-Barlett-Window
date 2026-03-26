@@ -1,5 +1,5 @@
 # FIR-FILTER-DESIGN
-# EXP 4 d: Design-of-FIR-Digital-Filter-using-Bartlett-Window
+# EXP 4 e: Design-of-FIR-Digital-Filter-using-Bartlett-Window
 
 # AIM 1:  To perform Design-of-LOWPASS FIR-Digital-Filter-using-Bartlett-Window using SCILAB.
 
